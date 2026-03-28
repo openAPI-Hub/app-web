@@ -1,7 +1,7 @@
 {
   "metadata": {
     "total": 12,
-    "last_synced": "2026-03-27T08:09:56.571184+00:00",
+    "last_synced": "2026-03-28T07:58:36.436687+00:00",
     "sources": [
       "public-apis/public-apis",
       "apis.guru"
@@ -18,7 +18,7 @@
       "https": true,
       "cors": true,
       "source_ref": "https://github.com/public-apis/public-apis",
-      "last_verified_at": "2026-03-27T08:09:56.571184+00:00",
+      "last_verified_at": "2026-03-28T07:58:36.436687+00:00",
       "status": "online",
       "fail_count": 0
     },
@@ -32,7 +32,7 @@
       "https": true,
       "cors": true,
       "source_ref": "https://github.com/public-apis/public-apis",
-      "last_verified_at": "2026-03-27T08:09:56.571184+00:00",
+      "last_verified_at": "2026-03-28T07:58:36.436687+00:00",
       "status": "online",
       "fail_count": 0
     },
@@ -48,7 +48,7 @@
       "source_ref": "https://github.com/public-apis/public-apis",
       "last_verified_at": "2026-03-26T08:00:00Z",
       "status": "online",
-      "fail_count": 1
+      "fail_count": 2
     },
     {
       "id": "pa-004",
@@ -60,7 +60,7 @@
       "https": true,
       "cors": true,
       "source_ref": "https://github.com/public-apis/public-apis",
-      "last_verified_at": "2026-03-27T08:09:56.571184+00:00",
+      "last_verified_at": "2026-03-28T07:58:36.436687+00:00",
       "status": "online",
       "fail_count": 0
     },
@@ -74,7 +74,7 @@
       "https": true,
       "cors": true,
       "source_ref": "https://github.com/public-apis/public-apis",
-      "last_verified_at": "2026-03-27T08:09:56.571184+00:00",
+      "last_verified_at": "2026-03-28T07:58:36.436687+00:00",
       "status": "online",
       "fail_count": 0
     },
@@ -88,7 +88,7 @@
       "https": true,
       "cors": true,
       "source_ref": "https://github.com/public-apis/public-apis",
-      "last_verified_at": "2026-03-27T08:09:56.571184+00:00",
+      "last_verified_at": "2026-03-28T07:58:36.436687+00:00",
       "status": "online",
       "fail_count": 0
     },
@@ -102,7 +102,7 @@
       "https": true,
       "cors": true,
       "source_ref": "https://github.com/public-apis/public-apis",
-      "last_verified_at": "2026-03-27T08:09:56.571184+00:00",
+      "last_verified_at": "2026-03-28T07:58:36.436687+00:00",
       "status": "online",
       "fail_count": 0
     },
@@ -118,7 +118,7 @@
       "source_ref": "https://github.com/public-apis/public-apis",
       "last_verified_at": "2026-03-26T08:00:00Z",
       "status": "online",
-      "fail_count": 1
+      "fail_count": 2
     },
     {
       "id": "pa-009",
@@ -130,7 +130,7 @@
       "https": true,
       "cors": true,
       "source_ref": "https://github.com/public-apis/public-apis",
-      "last_verified_at": "2026-03-27T08:09:56.571184+00:00",
+      "last_verified_at": "2026-03-28T07:58:36.436687+00:00",
       "status": "online",
       "fail_count": 0
     },
@@ -144,7 +144,7 @@
       "https": true,
       "cors": false,
       "source_ref": "https://apis.guru",
-      "last_verified_at": "2026-03-27T08:09:56.571184+00:00",
+      "last_verified_at": "2026-03-28T07:58:36.436687+00:00",
       "status": "online",
       "fail_count": 0
     },
@@ -158,7 +158,7 @@
       "https": true,
       "cors": true,
       "source_ref": "https://apis.guru",
-      "last_verified_at": "2026-03-27T08:09:56.571184+00:00",
+      "last_verified_at": "2026-03-28T07:58:36.436687+00:00",
       "status": "online",
       "fail_count": 0
     },
@@ -172,7 +172,7 @@
       "https": true,
       "cors": true,
       "source_ref": "https://github.com/public-apis/public-apis",
-      "last_verified_at": "2026-03-27T08:09:56.571184+00:00",
+      "last_verified_at": "2026-03-28T07:58:36.436687+00:00",
       "status": "online",
       "fail_count": 0
     }
